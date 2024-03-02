@@ -16,6 +16,8 @@
 ### Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227157.png'> | **Start Of A Legacy** <br> Unlock Bardock as a Support Character | 2024-03-02 17:58:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227245.png'> | **Entering The Charts** <br> Enter the Hi-Score Ranking by obtaining a score of 70.001 or higher | 2024-03-02 17:53:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
