@@ -1,5 +1,8 @@
 #!/bin/sh
-echo "# Welcome to CryZo's Profile!" > README.md
+echo '<p align="center">' > README.md
+echo '<img src="header.png">' >> README.md
+echo '</p>' >> README.md
+echo '' >> README.md
 
 echo '<picture>' >> README.md
 echo '  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />' >> README.md
@@ -16,8 +19,8 @@ ra_LastGameTitle=$(echo "$ra_lastGameResponse" | jq -r .GameTitle)
 ra_LastGameImageBoxArt=$(echo "$ra_lastGameResponse" | jq -r .ImageBoxArt)
 echo '' >> README.md
 
-echo '## Retroarchievements' >> README.md
-echo '### Last Played' >> README.md
+echo '# Retroarchievements' >> README.md
+echo '## Last Played' >> README.md
 echo '<p align="center">' >> README.md
 echo "<img alt='$ra_LastGameTitle' src='https://retroachievements.org$ra_LastGameImageBoxArt'>" >> README.md
 echo '</p>' >> README.md
@@ -26,7 +29,7 @@ echo "**$ra_LastGameTitle**" >> README.md
 echo "> $ra_RichPresenceMsg" >> README.md
 
 ra_latestArchievementsResponse=$(curl -s "https://retroachievements.org/API/API_GetUserRecentAchievements.php?u=CryZo&y=$RA_KEY&m=43200")
-echo '### Latest archievements' >> README.md
+echo '## Latest archievements' >> README.md
 readarray -t my_array < <(echo "$ra_latestArchievementsResponse" | jq --compact-output '.[]')
 
 echo '| Icon | Description | Date | Game |' >> README.md
@@ -44,7 +47,7 @@ for item in "${my_array[@]}"; do
   echo "| <img src='https://retroachievements.org$ra_BadgeURL'> | **$ra_Title** <br> $ra_Description | $ra_Date | <p align='center'><img height='48px' src='https://retroachievements.org$ra_GameIcon'><br>$ra_GameTitle</p> |" >> README.md
 done
 
-echo '## Visitor counter' >> README.md
+echo '# Visitor counter' >> README.md
 echo '<p align="center">' >> README.md
 echo '  <img src="https://profile-counter.glitch.me/CryZo/count.svg" />' >> README.md
 echo '</p>' >> README.md
