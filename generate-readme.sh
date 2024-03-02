@@ -13,6 +13,7 @@ echo '</picture>' >> README.md
 ra_profileResponse=$(curl -s "https://retroachievements.org/API/API_GetUserProfile.php?u=CryZo&y=$RA_KEY")
 ra_RichPresenceMsg=$(echo "$ra_profileResponse" | jq -r .RichPresenceMsg)
 ra_LastGameID=$(echo "$ra_profileResponse" | jq -r .LastGameID)
+ra_TotalPoints=$(echo "$ra_profileResponse" | jq -r .TotalPoints)
 
 ra_lastGameResponse=$(curl -s "https://retroachievements.org/API/API_GetGame.php?i=$ra_LastGameID&y=$RA_KEY")
 ra_LastGameTitle=$(echo "$ra_lastGameResponse" | jq -r .GameTitle)
@@ -20,6 +21,7 @@ ra_LastGameImageBoxArt=$(echo "$ra_lastGameResponse" | jq -r .ImageBoxArt)
 echo '' >> README.md
 
 echo '# Retroarchievements' >> README.md
+echo "![](https://img.shields.io/badge/Total_points-$ra_TotalPoints-blue)" >> README.md
 echo '## Last Played' >> README.md
 echo '<p align="center">' >> README.md
 echo "<img alt='$ra_LastGameTitle' src='https://retroachievements.org$ra_LastGameImageBoxArt'>" >> README.md
