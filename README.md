@@ -1,19 +1,22 @@
-# Welcome to CryZo's Profile!
+<p align="center">
+<img src="header.png">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
-## Retroarchievements
-### Last Played
+# Retroarchievements
+## Last Played
 <p align="center">
 <img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
 </p>
 
 **Dragon Ball Z: Supersonic Warriors 2**
 > Last seen fighting with Goku, Goku and Goku
-### Latest archievements
+## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
 | <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -38,7 +41,7 @@
 | <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45842.png'> | **Rev Head** <br> Maintain maximum revs for 30 seconds | 2024-02-24 16:08:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/250334.png'> | **The Floor is Lava** <br> Get to Marble Zone (no stage select code) | 2024-02-24 15:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085573.png'><br>Sonic the Hedgehog</p> |
-## Visitor counter
+# Visitor counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/CryZo/count.svg" />
 </p>
