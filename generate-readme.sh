@@ -22,9 +22,9 @@ echo "<img alt='$ra_LastGameTitle' src='https://retroachievements.org$ra_LastGam
 echo '' >> README.md
 echo "> $ra_RichPresenceMsg" >> README.md
 
-ra_latestArcheivementsResponse=$(curl -s "https://retroachievements.org/API/API_GetUserRecentAchievements.php?u=CryZo&y=$RA_KEY&m=43200")
-echo '### Latest archeivements' >> README.md
-readarray -t my_array < <(echo "$ra_latestArcheivementsResponse" | jq --compact-output '.[]')
+ra_latestArchievementsResponse=$(curl -s "https://retroachievements.org/API/API_GetUserRecentAchievements.php?u=CryZo&y=$RA_KEY&m=43200")
+echo '### Latest archievements' >> README.md
+readarray -t my_array < <(echo "$ra_latestArchievementsResponse" | jq --compact-output '.[]')
 
 echo '| Icon | Description | Date | Game |' >> README.md
 echo '| - | - | - | - |' >> README.md
