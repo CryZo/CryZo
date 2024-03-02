@@ -22,7 +22,7 @@ ra_LastGameImageBoxArt=$(echo "$ra_lastGameResponse" | jq -r .ImageBoxArt)
 echo '' >> README.md
 
 echo '# Retroarchievements' >> README.md
-echo "![](https://img.shields.io/badge/Total_points-$ra_TotalPoints-blue)" >> README.md
+echo "![](https://img.shields.io/badge/Total_points-$ra_TotalPoints-00C647)" >> README.md
 echo '## Last Played' >> README.md
 echo '<p align="center">' >> README.md
 echo "<img alt='$ra_LastGameTitle' src='https://retroachievements.org$ra_LastGameImageBoxArt'>" >> README.md
