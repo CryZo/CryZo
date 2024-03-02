@@ -38,3 +38,7 @@
 | <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45842.png'> | **Rev Head** <br> Maintain maximum revs for 30 seconds | 2024-02-24 16:08:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/250334.png'> | **The Floor is Lava** <br> Get to Marble Zone (no stage select code) | 2024-02-24 15:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085573.png'><br>Sonic the Hedgehog</p> |
+## Visitor counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/CryZo/count.svg" />
+</p>
