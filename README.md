@@ -10,7 +10,7 @@
 <img alt='Pokemon HeartGold Version | Pokemon SoulSilver Version' src='https://retroachievements.org/Images/036144.png'>
 
 > Chaser is in the Ecruteak Mart [🎖️4/8] [🎱9/256] [👁️64/256]
-### Latest archeivements
+### Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
 | <img src='https://retroachievements.org/Badge/138734.png'> | **Does He Believe in Ghosts?** <br> Defeat Morty for the Fog Badge. | 2024-03-02 01:39:30 | <img src='https://retroachievements.org/Images/063592.png'> <br> Pokemon HeartGold Version | Pokemon SoulSilver Version |
