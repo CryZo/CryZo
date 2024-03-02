@@ -18,8 +18,11 @@ echo '' >> README.md
 
 echo '## Retroarchievements' >> README.md
 echo '### Last Played' >> README.md
+echo '<div style="text-align: center;">' >> README.md
 echo "<img alt='$ra_LastGameTitle' src='https://retroachievements.org$ra_LastGameImageBoxArt'>" >> README.md
+echo '</div>' >> README.md
 echo '' >> README.md
+echo "**$ra_LastGameTitle**" >> README.md
 echo "> $ra_RichPresenceMsg" >> README.md
 
 ra_latestArchievementsResponse=$(curl -s "https://retroachievements.org/API/API_GetUserRecentAchievements.php?u=CryZo&y=$RA_KEY&m=43200")
@@ -38,5 +41,5 @@ for item in "${my_array[@]}"; do
   ra_GameIcon=$(jq --raw-output '.GameIcon' <<< "$item")
   # do your stuff
 
-  echo "| <img src='https://retroachievements.org$ra_BadgeURL'> | **$ra_Title** <br> $ra_Description | $ra_Date | <img src='https://retroachievements.org$ra_GameIcon'> <br> $ra_GameTitle |" >> README.md
+  echo "| <img src='https://retroachievements.org$ra_BadgeURL'> | **$ra_Title** <br> $ra_Description | $ra_Date | <div style='text-align: center;'><img height='48px' src='https://retroachievements.org$ra_GameIcon'><br>$ra_GameTitle</div> |" >> README.md
 done
