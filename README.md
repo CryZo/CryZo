@@ -10,7 +10,7 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1056-blue)
+![](https://img.shields.io/badge/Total_points-1056-00C647)
 ## Last Played
 <p align="center">
 <img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
