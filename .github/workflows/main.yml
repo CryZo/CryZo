@@ -8,7 +8,7 @@ on:
     - cron: "0 */6 * * *"
   push:
     branches: [ main ]
-    
+
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
@@ -25,7 +25,7 @@ jobs:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-      # Generates the snake  
+      # Generates the snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -37,11 +37,13 @@ jobs:
 
       - name: Generate Readme
         run:  bash ${GITHUB_WORKSPACE}/generate-readme.sh
+        env: # Or as an environment variable
+          RA_KEY: ${{ secrets.RA_KEY }}
 
 
        # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
-      
+
       # Push the changes
       - name: Commit & Push
         uses: Andro999b/push@v1.3
