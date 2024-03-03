@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1090-00C647)
 ## Last Played
 <p align="center">
-<img alt='Bomberman II' src='https://retroachievements.org/Images/011706.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Bomberman II**
-> Playing Bomberman II
+**Mario Kart DS**
+> Grand Prix: Luigi drives 'Poltergust 4000' on 'Cheep Cheep Beach' - 50cc  Mushroom Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
