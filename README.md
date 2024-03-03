@@ -10,17 +10,24 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1056-00C647)
+![](https://img.shields.io/badge/Total_points-1090-00C647)
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Bomberman II' src='https://retroachievements.org/Images/011706.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Bomberman II**
+> Playing Bomberman II
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/27810.png'> | **Bonus Round** <br> Find the Bonus Level in Area 1 | 2024-03-03 00:09:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
+| <img src='https://retroachievements.org/Badge/27824.png'> | **Detonation** <br> Obtain the Detonator Powerup  | 2024-03-03 00:03:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
+| <img src='https://retroachievements.org/Badge/27805.png'> | **Level Start!** <br> Complete a stage | 2024-03-02 23:59:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
+| <img src='https://retroachievements.org/Badge/116363.png'> | **Grassy Fields** <br> Finish the Castle in World 1. | 2024-03-02 23:48:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
+| <img src='https://retroachievements.org/Badge/116400.png'> | **No Star this Time** <br> Get a Reward for collecting eight Red Coins. | 2024-03-02 23:43:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
+| <img src='https://retroachievements.org/Badge/116393.png'> | **Wohoo! Just What I Needed!** <br> Finish a Level with 77, 88 or 99 as the last digits on the Timer to spawn an Orange Mushroom House. | 2024-03-02 23:34:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
+| <img src='https://retroachievements.org/Badge/116399.png'> | **The early Plumber catches the Mushroom** <br> Get a Mushroom by hitting a Coin Block enough times before it deactivates. | 2024-03-02 23:25:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
