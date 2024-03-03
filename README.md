@@ -10,17 +10,20 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1100-00C647)
+![](https://img.shields.io/badge/Total_points-1115-00C647)
 ## Last Played
 <p align="center">
 <img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Luigi drives 'Poltergust 4000' on '' - 150cc  Special Cup
+> Mission 2-9: Mario drives 'Standard MR'
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304059.png'> | **Eyerok Eyesore** <br> Finish Mission Mode 2-9 by defeating the boss. | 2024-03-03 10:16:53 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304058.png'> | **Big Bully Beatdown** <br> Finish Mission Mode 1-9 by defeating the boss. | 2024-03-03 10:07:09 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304041.png'> | **Shell 50cc (3 star) ** <br> Complete Shell cup on 50 cc with 3 star rank | 2024-03-03 09:58:27 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304017.png'> | **Dry Bones Drafting** <br> Unlock Dry Bones by getting Gold on all 50cc Nitro cups. | 2024-03-03 07:03:55 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304029.png'> | **Flower 50cc (3 star) ** <br> Complete Flower cup on  50 cc with 3 star rank | 2024-03-03 06:29:46 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/27810.png'> | **Bonus Round** <br> Find the Bonus Level in Area 1 | 2024-03-03 00:09:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
