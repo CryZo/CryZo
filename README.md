@@ -10,17 +10,21 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1115-00C647)
+![](https://img.shields.io/badge/Total_points-1135-00C647)
 ## Last Played
 <p align="center">
 <img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
 **Mario Kart DS**
-> Mission 2-9: Mario drives 'Standard MR'
+> Mission 4-2: Yoshi drives 'Standard YS'
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304060.png'> | **Goomboss Gamble** <br> Finish Mission Mode 3-9 by defeating the boss. | 2024-03-03 17:19:43 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304018.png'> | **Daisy Drifto** <br> Unlock Daisy by getting Gold on all 50cc Retro cups. | 2024-03-03 17:05:51 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304054.png'> | **Lightning 50cc (3 star)  ** <br> Complete Lightning cup on 50 cc with 3 star rank | 2024-03-03 17:05:50 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304050.png'> | **Leaf 50cc (3 star) ** <br> Complete Leaf cup on 50 cc with 3 star rank | 2024-03-03 16:52:53 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304059.png'> | **Eyerok Eyesore** <br> Finish Mission Mode 2-9 by defeating the boss. | 2024-03-03 10:16:53 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304058.png'> | **Big Bully Beatdown** <br> Finish Mission Mode 1-9 by defeating the boss. | 2024-03-03 10:07:09 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304041.png'> | **Shell 50cc (3 star) ** <br> Complete Shell cup on 50 cc with 3 star rank | 2024-03-03 09:58:27 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
