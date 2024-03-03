@@ -10,17 +10,19 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1090-00C647)
+![](https://img.shields.io/badge/Total_points-1100-00C647)
 ## Last Played
 <p align="center">
 <img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Luigi drives 'Poltergust 4000' on 'Cheep Cheep Beach' - 50cc  Mushroom Cup
+> Grand Prix: Luigi drives 'Poltergust 4000' on '' - 150cc  Special Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304017.png'> | **Dry Bones Drafting** <br> Unlock Dry Bones by getting Gold on all 50cc Nitro cups. | 2024-03-03 07:03:55 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/304029.png'> | **Flower 50cc (3 star) ** <br> Complete Flower cup on  50 cc with 3 star rank | 2024-03-03 06:29:46 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/27810.png'> | **Bonus Round** <br> Find the Bonus Level in Area 1 | 2024-03-03 00:09:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
 | <img src='https://retroachievements.org/Badge/27824.png'> | **Detonation** <br> Obtain the Detonator Powerup  | 2024-03-03 00:03:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
 | <img src='https://retroachievements.org/Badge/27805.png'> | **Level Start!** <br> Complete a stage | 2024-03-02 23:59:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/060230.png'><br>Bomberman II</p> |
