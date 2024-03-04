@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1152-00C647)
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Super Mario World 2: Yoshi's Island' src='https://retroachievements.org/Images/000982.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Super Mario World 2: Yoshi's Island**
+> Player starts the Game
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
