@@ -10,17 +10,21 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1135-00C647)
+![](https://img.shields.io/badge/Total_points-1152-00C647)
 ## Last Played
 <p align="center">
-<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
+<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
 </p>
 
-**Mario Kart DS**
-> Mission 4-2: Yoshi drives 'Standard YS'
+**Dragon Ball Z: Supersonic Warriors 2**
+> Last seen fighting with Goku, Goku and Goku
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/227117.png'> | **Heavy Weight** <br> Clear 'Broly's Fall' in Broly's Story | 2024-03-03 19:46:58 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227249.png'> | **Rock The Dragon** <br> Reach a total Rush Combo of 50 outside of Training Mode | 2024-03-03 19:41:02 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227118.png'> | **Under Control** <br> Clear 'Majin Reborn' in Broly's Story | 2024-03-03 19:34:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/116366.png'> | **Dry Desert** <br> Finish the Castle in World 2. | 2024-03-03 18:47:41 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/304060.png'> | **Goomboss Gamble** <br> Finish Mission Mode 3-9 by defeating the boss. | 2024-03-03 17:19:43 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304018.png'> | **Daisy Drifto** <br> Unlock Daisy by getting Gold on all 50cc Retro cups. | 2024-03-03 17:05:51 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304054.png'> | **Lightning 50cc (3 star)  ** <br> Complete Lightning cup on 50 cc with 3 star rank | 2024-03-03 17:05:50 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
@@ -37,8 +41,8 @@
 | <img src='https://retroachievements.org/Badge/116400.png'> | **No Star this Time** <br> Get a Reward for collecting eight Red Coins. | 2024-03-02 23:43:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116393.png'> | **Wohoo! Just What I Needed!** <br> Finish a Level with 77, 88 or 99 as the last digits on the Timer to spawn an Orange Mushroom House. | 2024-03-02 23:34:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116399.png'> | **The early Plumber catches the Mushroom** <br> Get a Mushroom by hitting a Coin Block enough times before it deactivates. | 2024-03-02 23:25:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
-| <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227157.png'> | **Start Of A Legacy** <br> Unlock Bardock as a Support Character | 2024-03-02 17:58:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227245.png'> | **Entering The Charts** <br> Enter the Hi-Score Ranking by obtaining a score of 70.001 or higher | 2024-03-02 17:53:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
