@@ -10,17 +10,23 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1152-00C647)
+![](https://img.shields.io/badge/Total_points-1165-00C647)
 ## Last Played
 <p align="center">
 <img alt='Super Mario World 2: Yoshi's Island' src='https://retroachievements.org/Images/000982.png'>
 </p>
 
 **Super Mario World 2: Yoshi's Island**
-> Player starts the Game
+> Yoshi & Mario explore Level 1-3: The Cave of Chomp Rock [11❤️][🌟24/30][🔴18/20][🌻5/5]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/207851.png'> | **Controller Shape** <br> Find the secret room in 1-3 and collect every coin | 2024-03-04 21:20:52 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
+| <img src='https://retroachievements.org/Badge/128607.png'> | **Easy Lives** <br> Reach 9 Lives in Game | 2024-03-04 21:19:36 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
+| <img src='https://retroachievements.org/Badge/128603.png'> | **Flowers** <br> First 5 Flowers in Game | 2024-03-04 21:11:22 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
+| <img src='https://retroachievements.org/Badge/128605.png'> | **Stars** <br> First 30 Stars in Game | 2024-03-04 21:08:50 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
+| <img src='https://retroachievements.org/Badge/128604.png'> | **Red Coins** <br> First 20 Red Coins in Game | 2024-03-04 21:04:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
+| <img src='https://retroachievements.org/Badge/128606.png'> | **Yellow Coins** <br> First 99 Yellow Coins in Game | 2024-03-04 21:03:41 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
 | <img src='https://retroachievements.org/Badge/227117.png'> | **Heavy Weight** <br> Clear 'Broly's Fall' in Broly's Story | 2024-03-03 19:46:58 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227249.png'> | **Rock The Dragon** <br> Reach a total Rush Combo of 50 outside of Training Mode | 2024-03-03 19:41:02 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227118.png'> | **Under Control** <br> Clear 'Majin Reborn' in Broly's Story | 2024-03-03 19:34:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -41,8 +47,8 @@
 | <img src='https://retroachievements.org/Badge/116400.png'> | **No Star this Time** <br> Get a Reward for collecting eight Red Coins. | 2024-03-02 23:43:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116393.png'> | **Wohoo! Just What I Needed!** <br> Finish a Level with 77, 88 or 99 as the last digits on the Timer to spawn an Orange Mushroom House. | 2024-03-02 23:34:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116399.png'> | **The early Plumber catches the Mushroom** <br> Get a Mushroom by hitting a Coin Block enough times before it deactivates. | 2024-03-02 23:25:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
-| <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227157.png'> | **Start Of A Legacy** <br> Unlock Bardock as a Support Character | 2024-03-02 17:58:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227245.png'> | **Entering The Charts** <br> Enter the Hi-Score Ranking by obtaining a score of 70.001 or higher | 2024-03-02 17:53:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -59,8 +65,8 @@
 | <img src='https://retroachievements.org/Badge/138730.png'> | **His Bugs Aren't That Tough** <br> Defeat Bugsy for the Hive Badge. | 2024-02-26 16:35:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138716.png'> | **Mommy's Favorite** <br> Obtain a Package from your Mother. | 2024-02-25 00:50:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138728.png'> | **The Wind Wasn't with Him** <br> Defeat Falkner for the Zephyr Badge. | 2024-02-25 00:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
-| <img src='https://retroachievements.org/Badge/45843.png'> | **Sierra Nevada** <br> Win a race in Sierra Nevada | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
+| <img src='https://retroachievements.org/Badge/45843.png'> | **Sierra Nevada** <br> Win a race in Sierra Nevada | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45842.png'> | **Rev Head** <br> Maintain maximum revs for 30 seconds | 2024-02-24 16:08:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/250334.png'> | **The Floor is Lava** <br> Get to Marble Zone (no stage select code) | 2024-02-24 15:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085573.png'><br>Sonic the Hedgehog</p> |
 # Visitor counter
