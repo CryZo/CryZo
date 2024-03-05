@@ -10,17 +10,19 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1165-00C647)
+![](https://img.shields.io/badge/Total_points-1175-00C647)
 ## Last Played
 <p align="center">
-<img alt='Super Mario World 2: Yoshi's Island' src='https://retroachievements.org/Images/000982.png'>
+<img alt='Lion King, The' src='https://retroachievements.org/Images/003100.png'>
 </p>
 
-**Super Mario World 2: Yoshi's Island**
-> Yoshi & Mario explore Level 1-3: The Cave of Chomp Rock [11❤️][🌟24/30][🔴18/20][🌻5/5]
+**Lion King, The**
+> Can't Wait to be King (Normal) 🦁3
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/12567.png'> | **The Pridelands** <br> Complete the stage "The Pridelands" in Normal or higher | 2024-03-05 16:17:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/034930.png'><br>Lion King, The</p> |
+| <img src='https://retroachievements.org/Badge/138736.png'> | **The Pounding Waterfall** <br> Defeat Chuck for the Storm Badge. | 2024-03-05 14:31:06 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/207851.png'> | **Controller Shape** <br> Find the secret room in 1-3 and collect every coin | 2024-03-04 21:20:52 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
 | <img src='https://retroachievements.org/Badge/128607.png'> | **Easy Lives** <br> Reach 9 Lives in Game | 2024-03-04 21:19:36 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
 | <img src='https://retroachievements.org/Badge/128603.png'> | **Flowers** <br> First 5 Flowers in Game | 2024-03-04 21:11:22 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
