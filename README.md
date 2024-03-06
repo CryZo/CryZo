@@ -10,17 +10,21 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1190-00C647)
+![](https://img.shields.io/badge/Total_points-1198-00C647)
 ## Last Played
 <p align="center">
 <img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
 </p>
 
 **Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with An open character slot, An open character slot and An open character slot
+> Last seen fighting with Goku, Goku and Goku
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/227137.png'> | **All Grown Up!** <br> Unlock Teen Gohan as a playable character | 2024-03-06 12:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227076.png'> | **Back To The Future** <br> Clear 'Ambition' in Gohan's Story | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227144.png'> | **Tomodachi Life** <br> Unlock SSJ2 Gohan as a playable character | 2024-03-06 12:02:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227119.png'> | **Urban Legend** <br> Clear all stages in Broly's Story | 2024-03-06 10:06:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/138738.png'> | **She's Rusty** <br> Defeat Jasmine for the Mineral Badge. | 2024-03-05 22:52:21 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/12567.png'> | **The Pridelands** <br> Complete the stage "The Pridelands" in Normal or higher | 2024-03-05 16:17:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/034930.png'><br>Lion King, The</p> |
@@ -69,8 +73,8 @@
 | <img src='https://retroachievements.org/Badge/138730.png'> | **His Bugs Aren't That Tough** <br> Defeat Bugsy for the Hive Badge. | 2024-02-26 16:35:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138716.png'> | **Mommy's Favorite** <br> Obtain a Package from your Mother. | 2024-02-25 00:50:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138728.png'> | **The Wind Wasn't with Him** <br> Defeat Falkner for the Zephyr Badge. | 2024-02-25 00:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
-| <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45843.png'> | **Sierra Nevada** <br> Win a race in Sierra Nevada | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
+| <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45842.png'> | **Rev Head** <br> Maintain maximum revs for 30 seconds | 2024-02-24 16:08:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/250334.png'> | **The Floor is Lava** <br> Get to Marble Zone (no stage select code) | 2024-02-24 15:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085573.png'><br>Sonic the Hedgehog</p> |
 # Visitor counter
