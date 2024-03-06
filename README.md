@@ -10,17 +10,18 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1175-00C647)
+![](https://img.shields.io/badge/Total_points-1180-00C647)
 ## Last Played
 <p align="center">
-<img alt='Lion King, The' src='https://retroachievements.org/Images/003100.png'>
+<img alt='Pokemon HeartGold Version | Pokemon SoulSilver Version' src='https://retroachievements.org/Images/036144.png'>
 </p>
 
-**Lion King, The**
-> Can't Wait to be King (Normal) 🦁3
+**Pokemon HeartGold Version | Pokemon SoulSilver Version**
+> Chaser is in the Olivine Center [🎖️6/8] [🎱12/256] [👁️80/256]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/138738.png'> | **She's Rusty** <br> Defeat Jasmine for the Mineral Badge. | 2024-03-05 22:52:21 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/12567.png'> | **The Pridelands** <br> Complete the stage "The Pridelands" in Normal or higher | 2024-03-05 16:17:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/034930.png'><br>Lion King, The</p> |
 | <img src='https://retroachievements.org/Badge/138736.png'> | **The Pounding Waterfall** <br> Defeat Chuck for the Storm Badge. | 2024-03-05 14:31:06 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/207851.png'> | **Controller Shape** <br> Find the secret room in 1-3 and collect every coin | 2024-03-04 21:20:52 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/061087.png'><br>Super Mario World 2: Yoshi's Island</p> |
