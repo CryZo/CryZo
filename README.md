@@ -10,7 +10,7 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1198-00C647)
+![](https://img.shields.io/badge/Total_points-1218-00C647)
 ## Last Played
 <p align="center">
 <img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
@@ -21,6 +21,9 @@
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/227077.png'> | **Grandpa's Glory** <br> Clear all stages in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227075.png'> | **Side Step** <br> Clear 'Decisive Battle' in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227074.png'> | **Born For Glory** <br> Clear 'Release Of True Power' in Gohan's Story | 2024-03-06 12:29:08 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227137.png'> | **All Grown Up!** <br> Unlock Teen Gohan as a playable character | 2024-03-06 12:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227076.png'> | **Back To The Future** <br> Clear 'Ambition' in Gohan's Story | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -55,8 +58,8 @@
 | <img src='https://retroachievements.org/Badge/116400.png'> | **No Star this Time** <br> Get a Reward for collecting eight Red Coins. | 2024-03-02 23:43:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116393.png'> | **Wohoo! Just What I Needed!** <br> Finish a Level with 77, 88 or 99 as the last digits on the Timer to spawn an Orange Mushroom House. | 2024-03-02 23:34:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116399.png'> | **The early Plumber catches the Mushroom** <br> Get a Mushroom by hitting a Coin Block enough times before it deactivates. | 2024-03-02 23:25:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
-| <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227157.png'> | **Start Of A Legacy** <br> Unlock Bardock as a Support Character | 2024-03-02 17:58:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227245.png'> | **Entering The Charts** <br> Enter the Hi-Score Ranking by obtaining a score of 70.001 or higher | 2024-03-02 17:53:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
