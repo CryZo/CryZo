@@ -10,23 +10,24 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1218-00C647)
+![](https://img.shields.io/badge/Total_points-1223-00C647)
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Mario Kart DS**
+> Mission 5-4: Bowser drives 'Standard BW'
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304061.png'> | **King Boo Koinage** <br> Finish Mission Mode 4-9 by defeating the boss. | 2024-03-06 15:39:33 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/227077.png'> | **Grandpa's Glory** <br> Clear all stages in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227075.png'> | **Side Step** <br> Clear 'Decisive Battle' in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227074.png'> | **Born For Glory** <br> Clear 'Release Of True Power' in Gohan's Story | 2024-03-06 12:29:08 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227137.png'> | **All Grown Up!** <br> Unlock Teen Gohan as a playable character | 2024-03-06 12:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
-| <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227076.png'> | **Back To The Future** <br> Clear 'Ambition' in Gohan's Story | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227144.png'> | **Tomodachi Life** <br> Unlock SSJ2 Gohan as a playable character | 2024-03-06 12:02:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227119.png'> | **Urban Legend** <br> Clear all stages in Broly's Story | 2024-03-06 10:06:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/138738.png'> | **She's Rusty** <br> Defeat Jasmine for the Mineral Badge. | 2024-03-05 22:52:21 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
