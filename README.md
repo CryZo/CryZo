@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1312-00C647)
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Pokemon HeartGold Version | Pokemon SoulSilver Version' src='https://retroachievements.org/Images/036144.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Pokemon HeartGold Version | Pokemon SoulSilver Version**
+> Chaser is in the Team Rocket HQ [🎖️6/8] [🎱13/256] [👁️85/256]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
