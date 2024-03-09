@@ -10,17 +10,18 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1312-00C647)
+![](https://img.shields.io/badge/Total_points-1314-00C647)
 ## Last Played
 <p align="center">
-<img alt='Pokemon HeartGold Version | Pokemon SoulSilver Version' src='https://retroachievements.org/Images/036144.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Pokemon HeartGold Version | Pokemon SoulSilver Version**
-> Chaser is in the Team Rocket HQ [🎖️6/8] [🎱13/256] [👁️85/256]
+**Mario Kart DS**
+> Grand Prix: Wario drives 'Brute' on 'Waluigi Pinball' - 100cc  Flower Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/431957.png'> | **Entering the Castle Ruins** <br> Reenter a Castle after it was destroyed by pressing L + R. | 2024-03-08 23:49:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/066393.png'><br>Super Mario World</p> |
 | <img src='https://retroachievements.org/Badge/227084.png'> | **Regenerative Persistence** <br> Clear all stages in Piccolo's Story | 2024-03-07 14:53:59 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227083.png'> | **Legendary Super Warriors** <br> Clear 'Complete Form' in Piccolo's Story | 2024-03-07 14:48:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227082.png'> | **Second Row** <br> Clear 'Clash! Majin Buu' in Piccolo's Story | 2024-03-07 14:33:10 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -41,12 +42,12 @@
 | <img src='https://retroachievements.org/Badge/227135.png'> | **Scraps United** <br> Unlock Android 18 as a playable character | 2024-03-06 19:47:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227078.png'> | **Metal Lover** <br> Clear 'Differences In Experience' in Krillin's Story | 2024-03-06 19:47:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/304061.png'> | **King Boo Koinage** <br> Finish Mission Mode 4-9 by defeating the boss. | 2024-03-06 15:39:33 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
-| <img src='https://retroachievements.org/Badge/227077.png'> | **Grandpa's Glory** <br> Clear all stages in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227075.png'> | **Side Step** <br> Clear 'Decisive Battle' in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227077.png'> | **Grandpa's Glory** <br> Clear all stages in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227074.png'> | **Born For Glory** <br> Clear 'Release Of True Power' in Gohan's Story | 2024-03-06 12:29:08 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227137.png'> | **All Grown Up!** <br> Unlock Teen Gohan as a playable character | 2024-03-06 12:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
-| <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227076.png'> | **Back To The Future** <br> Clear 'Ambition' in Gohan's Story | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227144.png'> | **Tomodachi Life** <br> Unlock SSJ2 Gohan as a playable character | 2024-03-06 12:02:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227119.png'> | **Urban Legend** <br> Clear all stages in Broly's Story | 2024-03-06 10:06:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/138738.png'> | **She's Rusty** <br> Defeat Jasmine for the Mineral Badge. | 2024-03-05 22:52:21 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
@@ -96,8 +97,8 @@
 | <img src='https://retroachievements.org/Badge/138730.png'> | **His Bugs Aren't That Tough** <br> Defeat Bugsy for the Hive Badge. | 2024-02-26 16:35:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138716.png'> | **Mommy's Favorite** <br> Obtain a Package from your Mother. | 2024-02-25 00:50:29 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 | <img src='https://retroachievements.org/Badge/138728.png'> | **The Wind Wasn't with Him** <br> Defeat Falkner for the Zephyr Badge. | 2024-02-25 00:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
-| <img src='https://retroachievements.org/Badge/45843.png'> | **Sierra Nevada** <br> Win a race in Sierra Nevada | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45833.png'> | **Shuriken 400** <br> Win a race on the Shuriken 400 motorbike | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
+| <img src='https://retroachievements.org/Badge/45843.png'> | **Sierra Nevada** <br> Win a race in Sierra Nevada | 2024-02-24 16:08:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/45842.png'> | **Rev Head** <br> Maintain maximum revs for 30 seconds | 2024-02-24 16:08:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/077797.png'><br>Road Rash</p> |
 | <img src='https://retroachievements.org/Badge/250334.png'> | **The Floor is Lava** <br> Get to Marble Zone (no stage select code) | 2024-02-24 15:48:24 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085573.png'><br>Sonic the Hedgehog</p> |
 # Visitor counter
