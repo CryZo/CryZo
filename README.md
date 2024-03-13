@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1329-00C647)
 ## Last Played
 <p align="center">
-<img alt='Sonic the Hedgehog 2' src='https://retroachievements.org/Images/084488.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Sonic the Hedgehog 2**
-> Hill Top Zone 2, 103880 points, No Chaos Emeralds
+**Mario Kart DS**
+> Grand Prix: Luigi drives 'Poltergust 4000' on 'Airship Fortress' - 150cc  Star Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
