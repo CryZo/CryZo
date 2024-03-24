@@ -10,17 +10,18 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1329-00C647)
+![](https://img.shields.io/badge/Total_points-1334-00C647)
 ## Last Played
 <p align="center">
 <img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Mario drives 'Standard MR' on 'Figure 8 Circuit' - 50cc  Mushroom Cup
+> Grand Prix: Luigi drives 'Poltergust 4000' on 'SNES Choco Island 2' - 150cc  Lightning Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304019.png'> | **A New Car!!** <br> Unlock 3rd Kart option by getting Gold on all 100cc Nitro cups. | 2024-03-24 17:06:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/254980.png'> | **Enjoy the View** <br> Reach Hill Top Zone without using level select | 2024-03-10 10:43:06 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
 | <img src='https://retroachievements.org/Badge/254979.png'> | **Gamble! Gamble! Gamble!** <br> Reach Casino Night Zone without using level select | 2024-03-10 10:34:00 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
 | <img src='https://retroachievements.org/Badge/461396.png'> | **Hold Your Breath** <br> Reach Aquatic Ruin Zone without using level select | 2024-03-10 10:26:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
@@ -42,11 +43,11 @@
 | <img src='https://retroachievements.org/Badge/227080.png'> | **The Hunt Continues** <br> Clear 'Escape Into Hope' in Krillin's Story | 2024-03-06 20:04:54 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227079.png'> | **Human Squad** <br> Clear 'Earth's Warriors' in Krillin's Story | 2024-03-06 19:59:36 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227150.png'> | **Wolf Fang Beam!** <br> Unlock Yamcha & Tien as a Support Character | 2024-03-06 19:53:32 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
-| <img src='https://retroachievements.org/Badge/227078.png'> | **Metal Lover** <br> Clear 'Differences In Experience' in Krillin's Story | 2024-03-06 19:47:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227135.png'> | **Scraps United** <br> Unlock Android 18 as a playable character | 2024-03-06 19:47:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227078.png'> | **Metal Lover** <br> Clear 'Differences In Experience' in Krillin's Story | 2024-03-06 19:47:07 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/304061.png'> | **King Boo Koinage** <br> Finish Mission Mode 4-9 by defeating the boss. | 2024-03-06 15:39:33 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
-| <img src='https://retroachievements.org/Badge/227075.png'> | **Side Step** <br> Clear 'Decisive Battle' in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227077.png'> | **Grandpa's Glory** <br> Clear all stages in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227075.png'> | **Side Step** <br> Clear 'Decisive Battle' in Gohan's Story | 2024-03-06 12:48:25 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227074.png'> | **Born For Glory** <br> Clear 'Release Of True Power' in Gohan's Story | 2024-03-06 12:29:08 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227137.png'> | **All Grown Up!** <br> Unlock Teen Gohan as a playable character | 2024-03-06 12:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227133.png'> | **Brains For Days** <br> Unlock Dr. Gero as a playable character | 2024-03-06 12:12:20 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -82,8 +83,8 @@
 | <img src='https://retroachievements.org/Badge/116400.png'> | **No Star this Time** <br> Get a Reward for collecting eight Red Coins. | 2024-03-02 23:43:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116393.png'> | **Wohoo! Just What I Needed!** <br> Finish a Level with 77, 88 or 99 as the last digits on the Timer to spawn an Orange Mushroom House. | 2024-03-02 23:34:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
 | <img src='https://retroachievements.org/Badge/116399.png'> | **The early Plumber catches the Mushroom** <br> Get a Mushroom by hitting a Coin Block enough times before it deactivates. | 2024-03-02 23:25:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/046594.png'><br>New Super Mario Bros.</p> |
-| <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227073.png'> | **Legendary Saiyan** <br> Clear all stages in Goku's Story | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227147.png'> | **KkaKKKAAARoTTtT!** <br> Unlock Broly as a playable character | 2024-03-02 18:24:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227072.png'> | **Reincarnation** <br> Clear 'Final Spirit Bomb' in Goku's Story | 2024-03-02 18:08:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227157.png'> | **Start Of A Legacy** <br> Unlock Bardock as a Support Character | 2024-03-02 17:58:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227245.png'> | **Entering The Charts** <br> Enter the Hi-Score Ranking by obtaining a score of 70.001 or higher | 2024-03-02 17:53:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
