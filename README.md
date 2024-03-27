@@ -98,7 +98,6 @@
 | <img src='https://retroachievements.org/Badge/46603.png'> | **Wendy Chips Are Down** <br> Defeat Wendy O. Koopa of Castle #6 | 2024-02-28 14:31:35 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/066393.png'><br>Super Mario World</p> |
 | <img src='https://retroachievements.org/Badge/46760.png'> | **Bowser Disposer** <br> Beat Bowser and save the princess | 2024-02-28 14:14:43 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/066393.png'><br>Super Mario World</p> |
 | <img src='https://retroachievements.org/Badge/138732.png'> | **She Just Lost, You Hear?** <br> Defeat Whitney for the Plain Badge. | 2024-02-27 14:52:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
-| <img src='https://retroachievements.org/Badge/138730.png'> | **His Bugs Aren't That Tough** <br> Defeat Bugsy for the Hive Badge. | 2024-02-26 16:35:04 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/063592.png'><br>Pokemon HeartGold Version | Pokemon SoulSilver Version</p> |
 # Visitor counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/CryZo/count.svg" />
