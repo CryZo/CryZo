@@ -10,17 +10,20 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1336-00C647)
+![](https://img.shields.io/badge/Total_points-1347-00C647)
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Mario Kart DS**
+> In the Menus
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304062.png'> | **Battle on the Big Bob-omb** <br> Finish Mission Mode 5-9 by defeating the boss. | 2024-04-07 18:08:05 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/227085.png'> | **United Power** <br> Clear 'Vegeta Bets Everything' in Vegeta's Story | 2024-04-07 17:56:50 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
+| <img src='https://retroachievements.org/Badge/227154.png'> | **Majin Conqueror** <br> Unlock Babidi as a Support Character | 2024-04-07 17:53:36 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227142.png'> | **Copycat** <br> Unlock SSJ Vegeta as a playable character | 2024-04-05 10:15:02 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227132.png'> | **Go Go Ginyu Rangers!** <br> Unlock Ginyu as a playable character | 2024-04-05 10:12:54 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/304019.png'> | **A New Car!!** <br> Unlock 3rd Kart option by getting Gold on all 100cc Nitro cups. | 2024-03-24 17:06:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
