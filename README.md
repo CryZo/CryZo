@@ -10,17 +10,18 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1347-00C647)
+![](https://img.shields.io/badge/Total_points-1352-00C647)
 ## Last Played
 <p align="center">
 <img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
 **Mario Kart DS**
-> In the Menus
+> Mission 6-9: Luigi drives 'Standard LG'
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/304063.png'> | **Chief Chilly Champion** <br> Finish Mission Mode 6-9 by defeating the boss. | 2024-04-07 18:27:37 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304062.png'> | **Battle on the Big Bob-omb** <br> Finish Mission Mode 5-9 by defeating the boss. | 2024-04-07 18:08:05 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/227085.png'> | **United Power** <br> Clear 'Vegeta Bets Everything' in Vegeta's Story | 2024-04-07 17:56:50 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
 | <img src='https://retroachievements.org/Badge/227154.png'> | **Majin Conqueror** <br> Unlock Babidi as a Support Character | 2024-04-07 17:53:36 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/054501.png'><br>Dragon Ball Z: Supersonic Warriors 2</p> |
@@ -30,7 +31,6 @@
 | <img src='https://retroachievements.org/Badge/254980.png'> | **Enjoy the View** <br> Reach Hill Top Zone without using level select | 2024-03-10 10:43:06 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
 | <img src='https://retroachievements.org/Badge/254979.png'> | **Gamble! Gamble! Gamble!** <br> Reach Casino Night Zone without using level select | 2024-03-10 10:34:00 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
 | <img src='https://retroachievements.org/Badge/461396.png'> | **Hold Your Breath** <br> Reach Aquatic Ruin Zone without using level select | 2024-03-10 10:26:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/085632.png'><br>Sonic the Hedgehog 2</p> |
-| <img src='https://retroachievements.org/Badge/431957.png'> | **Entering the Castle Ruins** <br> Reenter a Castle after it was destroyed by pressing L + R. | 2024-03-08 23:49:28 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/066393.png'><br>Super Mario World</p> |
 # Visitor counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/CryZo/count.svg" />
