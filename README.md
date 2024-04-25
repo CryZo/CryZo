@@ -10,17 +10,19 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1393-00C647)
+![](https://img.shields.io/badge/Total_points-1395-00C647)
 ## Last Played
 <p align="center">
-<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
+<img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
 </p>
 
-**Mario Kart DS**
-> Grand Prix: Waluigi drives 'Gold Mantis' on 'Luigi's Mansion' - 50cc  Mushroom Cup
+**Kirby: Power Paintbrush | Kirby: Canvas Curse**
+> Kirby is rolling through Dreamy Darkness in Neo Greo. 21/250 Medals.
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/132180.png'> | **Needle Kirby** <br> Transform into Needle Kirby in Main Game. | 2024-04-25 09:09:33 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132183.png'> | **Missile Kirby** <br> Transform into Missile Kirby in Main Game. | 2024-04-25 09:01:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/304020.png'> | **Waluigi Wanderer** <br> Unlock Waluigi by getting Gold on all 100cc Retro cups. | 2024-04-24 22:37:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/132436.png'> | **Paint Panic Rainbow Master 1** <br> Get a AAA rating in Paint Panic Level 1. 4300+ Points. | 2024-04-24 20:19:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132140.png'> | **Iello Adventure** <br> Complete Iello Adventure in Main Game with Kirby. | 2024-04-24 20:18:56 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
