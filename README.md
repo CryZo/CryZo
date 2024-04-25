@@ -10,19 +10,27 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1365-00C647)
+![](https://img.shields.io/badge/Total_points-1393-00C647)
 ## Last Played
 <p align="center">
-<img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
+<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
 </p>
 
-**Kirby: Power Paintbrush | Kirby: Canvas Curse**
-> Playing Block Attack Level 1. 7288 Points. 6/250 Medals.
+**Mario Kart DS**
+> Grand Prix: Waluigi drives 'Gold Mantis' on 'Luigi's Mansion' - 50cc  Mushroom Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
-| <img src='https://retroachievements.org/Badge/132430.png'> | **Block Attack Rainbow Hero 1** <br> Get a AAA rating in Block Attack Level 1. 10000+ Points. | 2024-04-23 22:47:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/304020.png'> | **Waluigi Wanderer** <br> Unlock Waluigi by getting Gold on all 100cc Retro cups. | 2024-04-24 22:37:39 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
+| <img src='https://retroachievements.org/Badge/132436.png'> | **Paint Panic Rainbow Master 1** <br> Get a AAA rating in Paint Panic Level 1. 4300+ Points. | 2024-04-24 20:19:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132140.png'> | **Iello Adventure** <br> Complete Iello Adventure in Main Game with Kirby. | 2024-04-24 20:18:56 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132177.png'> | **Stone Kirby** <br> Transform into Stone Kirby in Main Game. | 2024-04-24 20:00:18 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132431.png'> | **Block Attack Rainbow Hero 2** <br> Get a AAA rating in Block Attack Level 2. 10000+ Points. | 2024-04-24 19:56:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132139.png'> | **Arange Gorge** <br> Complete Arange Gorge in Main Game with Kirby. | 2024-04-24 19:56:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132179.png'> | **Tornado Kirby** <br> Transform into Tornado Kirby in Main Game. | 2024-04-24 19:47:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132174.png'> | **Spark Kirby** <br> Transform into Spark Kirby in Main Game. | 2024-04-24 19:46:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132138.png'> | **Reddy Land** <br> Complete Reddy Land in Main Game with Kirby. | 2024-04-23 22:47:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132430.png'> | **Block Attack Rainbow Hero 1** <br> Get a AAA rating in Block Attack Level 1. 10000+ Points. | 2024-04-23 22:47:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132181.png'> | **Burning Kirby** <br> Transform into Burning Kirby in Main Game. | 2024-04-23 22:38:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132178.png'> | **Wheel Kirby** <br> Transform into Wheel Kirby in Main Game. | 2024-04-23 22:34:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132176.png'> | **Beam Kirby** <br> Transform into Beam Kirby in Main Game. | 2024-04-23 22:33:30 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
