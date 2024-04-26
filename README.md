@@ -17,7 +17,7 @@
 </p>
 
 **Donkey Kong Country**
-> Playing with Donkey Kong at Tree Top Town - World 3 for 34 minutes [🐵18]
+> Playing with Diddy Kong at Temple Tempest - World 3 for 45 minutes [🐵4]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
