@@ -10,17 +10,22 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1412-00C647)
+![](https://img.shields.io/badge/Total_points-1434-00C647)
 ## Last Played
 <p align="center">
-<img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
+<img alt='Donkey Kong Country' src='https://retroachievements.org/Images/060824.png'>
 </p>
 
-**Kirby: Power Paintbrush | Kirby: Canvas Curse**
-> Playing Cart Run Level 2. 0 Points. 29/250 Medals.
+**Donkey Kong Country**
+> Playing with Donkey Kong at Tree Top Town - World 3 for 34 minutes [🐵18]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/210108.png'> | **Fail Prevention** <br> Find the non-bonus hidden barrel in Tree Top Town | 2024-04-25 23:02:01 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
+| <img src='https://retroachievements.org/Badge/188888.png'> | **Level 5 MEDIUM Winner** <br> Eliminate Virus Level 0 to 5 in a Row on Medium Speed or Faster | 2024-04-25 22:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/070455.png'><br>Tetris and Dr. Mario</p> |
+| <img src='https://retroachievements.org/Badge/188885.png'> | **Level 5 LOW Winner** <br> Eliminate Virus Level 0 to 5 in a Row on Low Speed or Faster | 2024-04-25 22:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/070455.png'><br>Tetris and Dr. Mario</p> |
+| <img src='https://retroachievements.org/Badge/419684.png'> | **Spirit of the Shrine** <br> Release the spirit in Stage 1 | 2024-04-25 21:47:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/026005.png'><br>Pocky & Rocky</p> |
+| <img src='https://retroachievements.org/Badge/132142.png'> | **Bloo Hills** <br> Complete Bloo Hills in Main Game with Kirby. | 2024-04-25 18:14:44 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132434.png'> | **Cart Run Rainbow Hero 2** <br> Get a AAA rating in Cart Run Level 2. 16000+ Points. | 2024-04-25 18:09:15 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132184.png'> | **Balloon Kirby** <br> Transform into Balloon Kirby in Main Game. | 2024-04-25 18:08:21 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132175.png'> | **Freeze Kirby** <br> Transform into Freeze Kirby in Main Game. | 2024-04-25 17:42:27 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
@@ -32,8 +37,8 @@
 | <img src='https://retroachievements.org/Badge/132436.png'> | **Paint Panic Rainbow Master 1** <br> Get a AAA rating in Paint Panic Level 1. 4300+ Points. | 2024-04-24 20:19:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132140.png'> | **Iello Adventure** <br> Complete Iello Adventure in Main Game with Kirby. | 2024-04-24 20:18:56 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132177.png'> | **Stone Kirby** <br> Transform into Stone Kirby in Main Game. | 2024-04-24 20:00:18 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
-| <img src='https://retroachievements.org/Badge/132139.png'> | **Arange Gorge** <br> Complete Arange Gorge in Main Game with Kirby. | 2024-04-24 19:56:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132431.png'> | **Block Attack Rainbow Hero 2** <br> Get a AAA rating in Block Attack Level 2. 10000+ Points. | 2024-04-24 19:56:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132139.png'> | **Arange Gorge** <br> Complete Arange Gorge in Main Game with Kirby. | 2024-04-24 19:56:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132179.png'> | **Tornado Kirby** <br> Transform into Tornado Kirby in Main Game. | 2024-04-24 19:47:40 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132174.png'> | **Spark Kirby** <br> Transform into Spark Kirby in Main Game. | 2024-04-24 19:46:23 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132430.png'> | **Block Attack Rainbow Hero 1** <br> Get a AAA rating in Block Attack Level 1. 10000+ Points. | 2024-04-23 22:47:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
