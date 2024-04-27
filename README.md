@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1437-00C647)
 ## Last Played
 <p align="center">
-<img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
+<img alt='Road Rash 3: Tour de Force' src='https://retroachievements.org/Images/001178.png'>
 </p>
 
-**Kirby: Power Paintbrush | Kirby: Canvas Curse**
-> Kirby is rolling through Volatile Volcano in Omarine Zone. 29/250 Medals.
+**Road Rash 3: Tour de Force**
+> Racing in Italy [lvl: 1] 8º position with Perro 125 bike, $1980.
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
