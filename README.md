@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1437-00C647)
 ## Last Played
 <p align="center">
-<img alt='Road Rash 3: Tour de Force' src='https://retroachievements.org/Images/001178.png'>
+<img alt='Tetris and Dr. Mario' src='https://retroachievements.org/Images/023125.png'>
 </p>
 
-**Road Rash 3: Tour de Force**
-> Racing in Italy [lvl: 1] 8º position with Perro 125 bike, $1980.
+**Tetris and Dr. Mario**
+> Playing Dr. Mario Games
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
