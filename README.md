@@ -13,11 +13,11 @@
 ![](https://img.shields.io/badge/Total_points-1437-00C647)
 ## Last Played
 <p align="center">
-<img alt='Tetris and Dr. Mario' src='https://retroachievements.org/Images/023125.png'>
+<img alt='Donkey Kong Country' src='https://retroachievements.org/Images/060824.png'>
 </p>
 
-**Tetris and Dr. Mario**
-> Playing Dr. Mario Games
+**Donkey Kong Country**
+> Playing with Diddy Kong at Rope Bridge Rumble - World 4 for 81 minutes [🐵0]
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
