@@ -10,17 +10,18 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1437-00C647)
+![](https://img.shields.io/badge/Total_points-1438-00C647)
 ## Last Played
 <p align="center">
-<img alt='Donkey Kong Country' src='https://retroachievements.org/Images/060824.png'>
+<img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
 </p>
 
-**Donkey Kong Country**
-> Playing with Diddy Kong at Rope Bridge Rumble - World 4 for 81 minutes [🐵0]
+**Kirby: Power Paintbrush | Kirby: Canvas Curse**
+> Kirby is rolling through Silent Seabed in Omarine Zone. 31/250 Medals.
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/132182.png'> | **Crash Kirby** <br> Transform into Crash Kirby in Main Game. | 2024-04-28 19:11:11 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/210099.png'> | **There are No Accidents** <br> Use the shortcut barrel in Snow Barrel Blast | 2024-04-26 12:45:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
 | <img src='https://retroachievements.org/Badge/210108.png'> | **Fail Prevention** <br> Find the non-bonus hidden barrel in Tree Top Town | 2024-04-25 23:02:01 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
 | <img src='https://retroachievements.org/Badge/188888.png'> | **Level 5 MEDIUM Winner** <br> Eliminate Virus Level 0 to 5 in a Row on Medium Speed or Faster | 2024-04-25 22:15:12 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/070455.png'><br>Tetris and Dr. Mario</p> |
