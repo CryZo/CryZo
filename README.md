@@ -10,17 +10,19 @@
 </picture>
 
 # Retroarchievements
-![](https://img.shields.io/badge/Total_points-1438-00C647)
+![](https://img.shields.io/badge/Total_points-1448-00C647)
 ## Last Played
 <p align="center">
 <img alt='Kirby: Power Paintbrush | Kirby: Canvas Curse' src='https://retroachievements.org/Images/035568.png'>
 </p>
 
 **Kirby: Power Paintbrush | Kirby: Canvas Curse**
-> Kirby is rolling through Silent Seabed in Omarine Zone. 31/250 Medals.
+> Freeze Kirby is rolling through Frozen Fantasy in Wonder Lilane. 33/250 Medals.
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
+| <img src='https://retroachievements.org/Badge/132437.png'> | **Paint Panic Rainbow Master 2** <br> Get a AAA rating in Paint Panic Level 2. 7000+ Points. | 2024-05-01 11:07:22 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
+| <img src='https://retroachievements.org/Badge/132143.png'> | **Omarine Zone** <br> Complete Omarine Zone in Main Game with Kirby. | 2024-05-01 11:07:13 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132182.png'> | **Crash Kirby** <br> Transform into Crash Kirby in Main Game. | 2024-04-28 19:11:11 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/210099.png'> | **There are No Accidents** <br> Use the shortcut barrel in Snow Barrel Blast | 2024-04-26 12:45:38 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
 | <img src='https://retroachievements.org/Badge/210108.png'> | **Fail Prevention** <br> Find the non-bonus hidden barrel in Tree Top Town | 2024-04-25 23:02:01 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
