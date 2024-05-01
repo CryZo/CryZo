@@ -17,7 +17,7 @@
 </p>
 
 **Kirby: Power Paintbrush | Kirby: Canvas Curse**
-> Freeze Kirby is rolling through Frozen Fantasy in Wonder Lilane. 33/250 Medals.
+> Dashing and Jumping! High Score: 1206. 35/250 Medals.
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
