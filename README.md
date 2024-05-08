@@ -52,7 +52,6 @@
 | <img src='https://retroachievements.org/Badge/132181.png'> | **Burning Kirby** <br> Transform into Burning Kirby in Main Game. | 2024-04-23 22:38:31 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132178.png'> | **Wheel Kirby** <br> Transform into Wheel Kirby in Main Game. | 2024-04-23 22:34:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
 | <img src='https://retroachievements.org/Badge/132176.png'> | **Beam Kirby** <br> Transform into Beam Kirby in Main Game. | 2024-04-23 22:33:30 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/038247.png'><br>Kirby: Power Paintbrush | Kirby: Canvas Curse</p> |
-| <img src='https://retroachievements.org/Badge/304063.png'> | **Chief Chilly Champion** <br> Finish Mission Mode 6-9 by defeating the boss. | 2024-04-07 18:27:37 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 # Visitor counter
 <p align="center">
   <img src="https://profile-counter.glitch.me/CryZo/count.svg" />
