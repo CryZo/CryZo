@@ -58,8 +58,3 @@ for item in "${my_array[@]}"; do
 
   echo "| <img src='https://retroachievements.org$ra_BadgeURL'> | **$ra_Title** <br> $ra_Description | $ra_Date | <p align='center'><img height='48px' src='https://retroachievements.org$ra_GameIcon'><br>$ra_GameTitle</p> |" >> README.md
 done
-
-echo '# Visitor counter' >> README.md
-echo '<p align="center">' >> README.md
-echo '  <img src="https://profile-counter.glitch.me/CryZo/count.svg" />' >> README.md
-echo '</p>' >> README.md
