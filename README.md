@@ -17,7 +17,7 @@
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Waluigi drives 'Brute' on 'SNES Mario Circuit 1' - 150cc  Shell Cup
+> Grand Prix: Waluigi drives 'Brute' on 'SNES Koopa Beach 2' - 150cc  Leaf Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
