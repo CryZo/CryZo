@@ -15,12 +15,12 @@ echo '</p>' >> README.md
 echo '' >> README.md
 
 # Badge bar
-echo "<img src=\"https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCryZo&label=Profile%20views%20(total%20%2F%20today)&countColor=%23ba68c8&style=flat\" />" >> README.md
-echo "<a href=\"https://retroachievements.org/user/$ra_User\"><img src=\"https://img.shields.io/badge/Retro_Archievements-$ra_TotalPoints-00C647\" /></a>" >> README.md
-echo "<img src=\"https://img.shields.io/badge/TypeScript-3370B3\" />" >> README.md
-echo "<img src=\"https://img.shields.io/badge/Tailwind_CSS-35BEF8\" />" >> README.md
-echo "<img src=\"https://img.shields.io/badge/Vue.js-3AA676\" />" >> README.md
-echo "<img src=\"https://img.shields.io/badge/I_hate-WordPress-white?labelColor=ffffff&color=21759A\" />" >> README.md
+echo -n "<img src=\"https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FCryZo&label=Profile%20views%20(total%20%2F%20today)&countColor=%23ba68c8&style=flat\" />" >> README.md
+echo -n "<a href=\"https://retroachievements.org/user/$ra_User\"><img src=\"https://img.shields.io/badge/Retro_Archievements-$ra_TotalPoints-00C647\" /></a>" >> README.md
+echo -n "<img src=\"https://img.shields.io/badge/TypeScript-3370B3\" />" >> README.md
+echo -n "<img src=\"https://img.shields.io/badge/Tailwind_CSS-35BEF8\" />" >> README.md
+echo -n "<img src=\"https://img.shields.io/badge/Vue.js-3AA676\" />" >> README.md
+echo -n "<img src=\"https://img.shields.io/badge/I_hate-WordPress-white?labelColor=ffffff&color=21759A\" />" >> README.md
 
 echo '' >> README.md
 echo '# Last contributions' >> README.md
