@@ -17,7 +17,7 @@
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Mario drives 'Standard MR' on '' - 150cc  Lightning Cup
+> Grand Prix: Waluigi drives 'Brute' on 'Yoshi Falls' - 150cc Mirror Mushroom Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
