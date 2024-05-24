@@ -17,7 +17,7 @@
 </p>
 
 **Mario Kart DS**
-> Grand Prix: Waluigi drives 'Brute' on 'Yoshi Falls' - 150cc Mirror Mushroom Cup
+> Grand Prix: Waluigi drives 'Brute' on 'Shroom Ridge' - 150cc Mirror Flower Cup
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
