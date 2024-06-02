@@ -23,5 +23,3 @@
 | - | - | - | - |
 | <img src='https://retroachievements.org/Badge/304022.png'> | **RAC EFAS TSAF ECAR** <br> Unlock 150cc Mirror by getting Gold on all 150cc Retro cups. | 2024-05-20 09:46:34 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
 | <img src='https://retroachievements.org/Badge/304021.png'> | **Mario Kart 7** <br> Unlock 7 Karts option by getting Gold on all 150cc Nitro cups. | 2024-05-11 15:21:26 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
-| <img src='https://retroachievements.org/Badge/123749.png'> | **Really Gnawty No More** <br> Defeat Really Gnawty without being harmed. | 2024-05-03 15:44:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
-| <img src='https://retroachievements.org/Badge/123734.png'> | **Monkeys on Ice!** <br> Beat World 4 - Gorilla Glacier | 2024-05-03 15:44:03 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/041009.png'><br>Donkey Kong Country</p> |
