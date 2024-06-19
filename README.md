@@ -21,4 +21,3 @@
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
-| <img src='https://retroachievements.org/Badge/304022.png'> | **RAC EFAS TSAF ECAR** <br> Unlock 150cc Mirror by getting Gold on all 150cc Retro cups. | 2024-05-20 09:46:34 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/072928.png'><br>Mario Kart DS</p> |
