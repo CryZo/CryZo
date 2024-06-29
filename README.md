@@ -13,11 +13,11 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Mario Kart DS' src='https://retroachievements.org/Images/028717.png'>
+<img alt='Super Mario All-Stars' src='https://retroachievements.org/Images/026426.png'>
 </p>
 
-**Mario Kart DS**
-> Grand Prix: Waluigi drives 'Brute' on 'Shroom Ridge' - 150cc Mirror Flower Cup
+**Super Mario All-Stars**
+> Playing Super Mario Bros. 1
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
