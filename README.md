@@ -13,11 +13,11 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Supersonic Warriors 2' src='https://retroachievements.org/Images/054427.png'>
+<img alt='Donkey Kong Country' src='https://retroachievements.org/Images/060824.png'>
 </p>
 
-**Dragon Ball Z: Supersonic Warriors 2**
-> Last seen fighting with Goku, Goku and Goku
+**Donkey Kong Country**
+> Playing Donkey Kong Country
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
