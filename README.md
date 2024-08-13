@@ -21,5 +21,3 @@
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
-| <img src='https://retroachievements.org/Badge/419651.png'> | **Shrine Maiden's Hope** <br> Obtain Default Weapon Level 3 for Pocky (Sayo) | 2024-07-13 22:00:57 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/026005.png'><br>Pocky & Rocky</p> |
-| <img src='https://retroachievements.org/Badge/419653.png'> | **Sacred Flame** <br> Obtain Fireball Level 3 for Pocky (Sayo) | 2024-07-13 21:58:22 | <p align='center'><img height='48px' src='https://retroachievements.org/Images/026005.png'><br>Pocky & Rocky</p> |
