@@ -13,11 +13,11 @@
 # Retroarchievements
 ## Last Played
 <p align="center">
-<img alt='Dragon Ball Z: Ultimate Battle 22' src='https://retroachievements.org/Images/026730.png'>
+<img alt='Tetris and Dr. Mario' src='https://retroachievements.org/Images/023125.png'>
 </p>
 
-**Dragon Ball Z: Ultimate Battle 22**
-> Majin Buu vs  are battling at the Kami's Lookout
+**Tetris and Dr. Mario**
+> Playing Tetris Games
 ## Latest archievements
 | Icon | Description | Date | Game |
 | - | - | - | - |
